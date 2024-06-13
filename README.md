@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TadalaKaomba
-- 👀 I’m interested in Robotics, AI, and machine learning
-- 🌱 I’m currently learning JavaScript and SQL
-- 💞️ I’m looking to collaborate on Python and javascript projects mainly
+- 👀 I’m interested in Robotics
 - 📫 How to reach me - tadalakaomba@gmail.com
 
 <!---
